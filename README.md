@@ -48,7 +48,7 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
    - [3.2 J’ai oublié mon mot de passe root, comment faire pour le changer ?](#3-2-jai-oublie-mon-mot-de-passe-root-comment-faire-pour-le-changer)
    - [3.3 Je souhaite redimensionner ma partition racine, comment puis-je faire sans réinstaller ?](#3-3-je-souhaite-redimensionner-ma-partition-racine-comment-puis-je-faire-sans-reinstaller)
 
-4. [Conclusion](#conclusion)
+4. [Conclusion finale](#conclusion-finale)
 
 
 #  **Partie 1 : "Installation Machine virtuelle"**
