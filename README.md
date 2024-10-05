@@ -44,9 +44,10 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
 
 
 3. [3. Aller plus loin](#3-aller-plus-loin)
-   - [3.1 Preseed : À quoi cela sert ?](#3-1-preseed-à-quoi-cela-sert)
-   - [3.2 J’ai oublié mon mot de passe root, comment faire pour le changer ?](#3-2-jai-oublie-mon-mot-de-passe-root-comment-faire-pour-le-changer)
-   - [3.3 Je souhaite redimensionner ma partition racine, comment puis-je faire sans réinstaller ?](#3-3-je-souhaite-redimensionner-ma-partition-racine-comment-puis-je-faire-sans-reinstaller)
+  - [3.1 Preseed : À quoi cela sert ?](#31-preseed-à-quoi-cela-sert)
+  - [3.2 J’ai oublié mon mot de passe root, comment faire pour le changer ?](#32-jai-oublie-mon-mot-de-passe-root-comment-faire-pour-le-changer)
+  - [3.3 Je souhaite redimensionner ma partition racine, comment puis-je faire sans réinstaller ?](#33-je-souhaite-redimensionner-ma-partition-racine-comment-puis-je-faire-sans-reinstaller)
+
 
 4. [Conclusion finale](#conclusion-finale)
 
