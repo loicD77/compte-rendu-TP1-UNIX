@@ -668,7 +668,7 @@ Ce tutoriel explique comment redimensionner une partition sur Linux en utilisant
 
 ### Félicitations ! Vous avez réussi à redimensionner avec fdisk !
 
-### Conclusion
+### Conclusion finale
 
 Ce TP a été une expérience d'apprentissage, bien que j'aie rencontré plusieurs difficultés tout au long du processus. Malgré ces obstacles, j'ai pu acquérir des compétences essentielles en gestion de systèmes, en particulier dans l'installation et la configuration d'un serveur SSH sur Debian.
 
