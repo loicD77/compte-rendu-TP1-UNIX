@@ -514,7 +514,7 @@ Périphérique    Début      Fin Secteurs Type-UUID                            
 
 > J'ai bien cherché sur le net ;)
 
-#### A) Preseed : À quoi cela sert ?
+## A) Preseed : À quoi cela sert ?
 
 ## Source
 - [Preseed pour debian](https://angoule.me/lit/linux-et-TCPIP/preseed-pour-debian)
