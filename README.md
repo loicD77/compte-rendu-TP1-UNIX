@@ -514,7 +514,7 @@ Périphérique    Début      Fin Secteurs Type-UUID                            
 
 > J'ai bien cherché sur le net ;)
 
-## 3.1 Preseed : À quoi cela sert ?
+### 3.1 Preseed : À quoi cela sert ?
 
 ## Source
 - [Preseed pour debian](https://angoule.me/lit/linux-et-TCPIP/preseed-pour-debian)
@@ -527,7 +527,7 @@ C’est hautement personnalisable, simple à intégrer. D’autres lui préfère
 
 Preseed repose sur un simple fichier texte, appelé par l’installeur debian. On y inscrit les réponses voulues aux questions posées par l’installeur. Les fichiers preseed peuvent être servis en TFTP ou HTTP. Dans un souci d’optimisation et de simplicité, on verra la méthode TFTP.
 
-## **J’ai oublié mon mot de passe root, comment faire pour le changer ?**  
+### 3.2 J’ai oublié mon mot de passe root, comment faire pour le changer ?
 
 
 
@@ -588,7 +588,7 @@ Lorsque le mot de passe root ou administrateur est perdu sur Ubuntu, deux métho
 Ces deux méthodes permettent de réinitialiser le mot de passe root ou administrateur sur Ubuntu en cas d'oubli.
 
 
-## **Je souhaite redimensionner ma partition racine, comment puis-je faire sans réinstaller ?**  
+### 3.3 **Je souhaite redimensionner ma partition racine, comment puis-je faire sans réinstaller ?**  
 # Linux : Redimensionner (Agrandir/Réduire) une Partition
 
 ## Source
