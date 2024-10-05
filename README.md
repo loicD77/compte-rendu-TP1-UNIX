@@ -22,9 +22,7 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
 
 
 
-
-
-# Table des matières
+## Table des Matières
 
 1. [Partie 1 : Installation Machine virtuelle](#partie-1-installation-machine-virtuelle)
    - [I) Choisir la langue](#i-choisir-la-langue)
@@ -33,23 +31,24 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
    - [IV) Comptes utilisateurs](#iv-comptes-utilisateurs)
    - [V) La création des partitions](#v-la-création-des-partitions)
      - [A) La racine](#a-la-racine)
-     - [B) espace tempo](#b-espace-tempo)
+     - [B) Espace temporaire](#b-espace-temporaire)
      - [C) Troisième partition : les logs](#c-troisième-partition-les-logs)
-     - [D) swap (Quatrième partition)](#d-swap-quatrième-partition)
+     - [D) Swap (quatrième partition)](#d-swap-quatrième-partition)
    - [VI) GRUB](#vi-grub)
 
 2. [Partie 2 : Post-Installation](#partie-2-post-installation)
    - [A) Voici les commandes sur la VM](#a-voici-les-commandes-sur-la-vm)
-   - [B) Voici le reste des commandes utilisées sur le terminal de Linux](#b-voici-le-reste-des-commandes-utilisé-sur-le-terminal-de-linux)
-
+   - [B) Voici le reste des commandes utilisées sur le terminal de Linux](#b-voici-le-reste-des-commandes-utilisées-sur-le-terminal-de-linux)
 
 3. [3. Aller plus loin](#3-aller-plus-loin)
    - [A) Preseed : À quoi cela sert ?](#a-preseed-à-quoi-cela-sert)
    - [B) J’ai oublié mon mot de passe root, comment faire pour le changer ?](#b-jai-oublie-mon-mot-de-passe-root-comment-faire-pour-le-changer)
    - [C) Je souhaite redimensionner ma partition racine, comment puis-je faire sans réinstaller ?](#c-je-souhaite-redimensionner-ma-partition-racine-comment-puis-je-faire-sans-reinstaller)
 
-
 4. [Conclusion finale](#conclusion-finale)
+
+
+
 
 
 #  **Partie 1 : "Installation Machine virtuelle"**
