@@ -42,9 +42,13 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
    - [A) Voici les commandes sur la VM](#a-voici-les-commandes-sur-la-vm)
    - [B) Voici le reste des commandes utilisées sur le terminal de Linux](#b-voici-le-reste-des-commandes-utilisé-sur-le-terminal-de-linux)
 
+
 3. [3. Aller plus loin](#3-aller-plus-loin)
-   - [3.1 Preseed : À quoi cela sert ?](#preseed-à-quoi-cela-sert)
-   - [3.2 Rescue mode](#32-rescue-mode)
+   - [3.1 Preseed : À quoi cela sert ?](#3-1-preseed-à-quoi-cela-sert)
+   - [3.2 J’ai oublié mon mot de passe root, comment faire pour le changer ?](#3-2-jai-oublie-mon-mot-de-passe-root-comment-faire-pour-le-changer)
+   - [3.3 Je souhaite redimensionner ma partition racine, comment puis-je faire sans réinstaller ?](#3-3-je-souhaite-redimensionner-ma-partition-racine-comment-puis-je-faire-sans-reinstaller)
+
+4. [Conclusion](#conclusion)
 
 
 #  **Partie 1 : "Installation Machine virtuelle"**
