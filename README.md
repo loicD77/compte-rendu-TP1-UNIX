@@ -18,7 +18,7 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
 ![Choix de las langue](./img/erreur-shell-A.png "Choix de la langues")
 
 
-* Ici l'erreur indique qu'il y a des erreurs avec la configuration de quelques composants d'installation dans Debian, notamment avec **apt-setup-udeb** et **mktemp** . L'ISO est peut-être corrompue...
+* Ici les messages indiquent qu'il y a des erreurs avec la configuration de quelques composants d'installation dans Debian, notamment avec **apt-setup-udeb** et **mktemp** . L'ISO est peut-être corrompue...
 
 
 
@@ -198,7 +198,7 @@ J"ai utilisé **'/'** pour que la partition soit utilisée comme la racine du sy
 ![nom-partition-2](./img/nom-partition-2.png "nom-partition-2")
 
 
-* J'ai aussi définis le nom comple de cette deuxième partition : **espace tempo**
+* J'ai aussi définis le nom demandé par le tp pour cette deuxième partition : **espace tempo**
 
 
 
