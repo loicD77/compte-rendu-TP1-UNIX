@@ -313,7 +313,7 @@ Pour cela j'ai utilisé **ssh root@10.20.0.179** avec comme mot de passe "**root
 
 3. **halt -p**  
    **Description** : Arrête le système de manière sécurisée, en coupant l'alimentation si cela est possible.  
-   **Lien avec le TP** : Utile lors de la maintenance du système ou lorsque tu as besoin de redémarrer le serveur après des modifications.
+   **Lien avec le TP** : Utile lors de la maintenance du système ou lorsque j'ai besoin de redémarrer le serveur après des modifications.
 
 4. **nano sshd_config**  
    **Description** : Lance l'éditeur de texte nano pour modifier le fichier `sshd_config`, qui configure les paramètres du serveur SSH (Secure Shell).  
@@ -333,7 +333,7 @@ Pour cela j'ai utilisé **ssh root@10.20.0.179** avec comme mot de passe "**root
 
 8. **apt update**  
    **Description** : Met à jour la liste des paquets disponibles et leurs versions à partir des dépôts configurés.  
-   **Lien avec le TP** : Indispensable avant d’installer ou de mettre à jour des paquets, garantissant que tu disposes des dernières versions.
+   **Lien avec le TP** : Indispensable avant d’installer ou de mettre à jour des paquets, garantissant que je dispose des dernières versions.
 
 9. **apt search openssh-server**  
    **Description** : Recherche des paquets contenant "openssh-server" dans leur nom ou leur description.  
