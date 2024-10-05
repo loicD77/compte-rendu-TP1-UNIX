@@ -43,7 +43,7 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
    - [B) Voici le reste des commandes utilisées sur le terminal de Linux](#b-voici-le-reste-des-commandes-utilisé-sur-le-terminal-de-linux)
 
 3. [3. Aller plus loin](#3-aller-plus-loin)
-   - [3.1 Installation automatique](#31-installation-automatique)
+   - [Preseed : À quoi cela sert ?](#preseed-à-quoi-cela-sert)
    - [3.2 Rescue mode](#32-rescue-mode)
 
 
