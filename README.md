@@ -13,7 +13,7 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
 
 * Je tiens à préciser que j'ai eu des difficultés, notamment avec mes deux ordinateur personnels, en effet, le premier qui est un medion fonctionnant sous Windows 11 avec une version 32 bits ne permettait pas d'utiliser le fichier iso de Debian 12 demandé par le tp, cependant mon ordinateur hp fonctionnant sous Windows 11 avec une version 64 bits permettait donc d'utiliser ce fichier iso avec Oracle VirtualBox (sous sa dernière version).
 
-* Malheureusement, j'ai vérifier les les journaux d'installation grâce au shell et j'ai les messages d'erreurs suivants:
+* Malheureusement, j'ai vérifier les journaux d'installation grâce au shell et j'ai les messages d'erreurs suivants:
 
 ![Choix de las langue](./img/erreur-shell-A.png "Choix de la langues")
 
