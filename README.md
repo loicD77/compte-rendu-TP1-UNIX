@@ -340,18 +340,18 @@ Pour cela j'ai utilisé **ssh root@10.20.0.179** avec comme mot de passe "**root
    **Lien avec le TP** : Utile pour identifier le paquet SSH à installer et vérifier sa disponibilité dans les dépôts.
 
 10. **apt install**  
-    **Description** : Permet l'installation d'un paquet. Généralement, tu devras spécifier le nom du paquet après cette commande.  
+    **Description** : Permet l'installation d'un paquet. Généralement, je devrai spécifier le nom du paquet après cette commande.  
     **Lien avec le TP** : Employée pour installer les logiciels requis, tels que SSH.
 
 11. **apt install openssh-server**  
     **Description** : Installe le paquet `openssh-server`, essentiel pour configurer un serveur SSH sur Debian.  
-    **Lien avec le TP** : Indispensable pour établir une connexion sécurisée à distance avec ton serveur.
+    **Lien avec le TP** : Indispensable pour établir une connexion sécurisée à distance avec mon serveur.
 
 
 
 13. **ssh root@10.20.0.179**  
     **Description** : Tente d’établir une connexion SSH avec le serveur à l'adresse IP 10.20.0.179 en utilisant l'utilisateur root.  
-    **Lien avec le TP** : Permet de tester la connexion au serveur SSH que tu viens de configurer.
+    **Lien avec le TP** : Permet de tester la connexion au serveur SSH que je viens de configurer.
 
 14. **systemctl restart ssh**  
     **Description** : Redémarre le service SSH sur le système.  
