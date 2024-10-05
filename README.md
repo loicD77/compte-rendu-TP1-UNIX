@@ -309,7 +309,7 @@ Pour cela j'ai utilisé **ssh root@10.20.0.179** avec comme mot de passe "**root
 
 2. **df -h**  
    **Description** : Fournit une vue d'ensemble de l'utilisation de l'espace disque sur les systèmes de fichiers montés, avec des unités lisibles (comme G pour gigaoctets).  
-   **Lien avec le TP** : Essentielle pour évaluer l'espace libre avant d'installer de nouveaux paquets ou services, évitant ainsi des problèmes de saturation.
+   **Lien avec le TP** : Essentiel pour évaluer l'espace libre avant d'installer de nouveaux paquets ou services, évitant ainsi des problèmes de saturation.
 
 3. **halt -p**  
    **Description** : Arrête le système de manière sécurisée, en coupant l'alimentation si cela est possible.  
