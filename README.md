@@ -512,7 +512,7 @@ Périphérique    Début      Fin Secteurs Type-UUID                            
 
 
 
-# 3. Aller plus loin
+# Aller plus loin
 
 > J'ai bien cherché sur le net ;)
 
