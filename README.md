@@ -24,7 +24,7 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
 
 ## Table des Matières
 
-1. [Partie 1 : Installation Machine virtuelle](#partie-1-installation-machine-virtuelle)
+1. [VM](#vm)
    - [I) Choisir la langue](#i-choisir-la-langue)
    - [II) Configurer le clavier](#ii-configurer-le-clavier)
    - [III) Configuration Réseaux (automatique)](#iii-configuration-réseaux-automatique)
@@ -51,7 +51,7 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
 
 
 
-# **Partie 1 : "Installation Machine virtuelle"**
+# **VM**
 
 
 
