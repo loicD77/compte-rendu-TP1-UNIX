@@ -43,7 +43,7 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
 3. [3. Aller plus loin](#3-aller-plus-loin)
    - [A) Preseed](#a-preseed)
    - [B) Root](#b-root)
-   - [C) Je souhaite redimensionner ma partition racine, comment puis-je faire sans réinstaller ?](#c-je-souhaite-redimensionner-ma-partition-racine-comment-puis-je-faire-sans-reinstaller)
+   - [C) Racine](#c-racine)
 
 4. [Conclusion finale](#conclusion-finale)
 
@@ -588,7 +588,7 @@ Lorsque le mot de passe root ou administrateur est perdu sur Ubuntu, deux métho
 Ces deux méthodes permettent de réinitialiser le mot de passe root ou administrateur sur Ubuntu en cas d'oubli.
 
 
-### C) Je souhaite redimensionner ma partition racine, comment puis-je faire sans réinstaller ?
+### C) Racine
 # Linux : Redimensionner (Agrandir/Réduire) une Partition
 
 ## Source
