@@ -31,7 +31,7 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
    - [IV) Comptes utilisateurs](#iv-comptes-utilisateurs)
    - [V) La création des partitions](#v-la-création-des-partitions)
      - [A) La racine](#a-la-racine)
-     - [B) Espace temporaire](#b-espace-temporaire)
+     - [B) Espace tempo](#b-espace-tempo)
      - [C) Troisième partition : les logs](#c-troisième-partition-les-logs)
      - [D) Swap (quatrième partition)](#d-swap-quatrième-partition)
    - [VI) GRUB](#vi-grub)
@@ -187,7 +187,7 @@ J"ai utilisé **'/'** pour que la partition soit utilisée comme la racine du sy
 * J'ai laissé le reste par défault, j'ai confirmé sa présence.
 * Cette partition est importante car elle intègre le système d'exploitation et tous les fichiers nécessaires au fonctionnement de Debian.
 
-### B) espace tempo
+### B) Espace tempo
 
 * J'ai choisis aussi **"début"** pour sélectionner l'espace libre sur le disque où je souhaite créer la partition.
 
