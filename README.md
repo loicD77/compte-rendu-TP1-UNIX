@@ -41,7 +41,7 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
    - [B) Voici le reste des commandes utilisées sur le terminal de Linux](#b-voici-le-reste-des-commandes-utilisées-sur-le-terminal-de-linux)
 
 3. [3. Aller plus loin](#3-aller-plus-loin)
-   - [A) Preseed : À quoi cela sert ?](#a-preseed-à-quoi-cela-sert)
+   - [A) Preseed](#a-preseed)
    - [B) J’ai oublié mon mot de passe root, comment faire pour le changer ?](#b-jai-oublie-mon-mot-de-passe-root-comment-faire-pour-le-changer)
    - [C) Je souhaite redimensionner ma partition racine, comment puis-je faire sans réinstaller ?](#c-je-souhaite-redimensionner-ma-partition-racine-comment-puis-je-faire-sans-reinstaller)
 
@@ -514,7 +514,7 @@ Périphérique    Début      Fin Secteurs Type-UUID                            
 
 > J'ai bien cherché sur le net ;)
 
-## A) Preseed : À quoi cela sert ?
+### A) Preseed : À quoi cela sert ?
 
 ## Source
 - [Preseed pour debian](https://angoule.me/lit/linux-et-TCPIP/preseed-pour-debian)
