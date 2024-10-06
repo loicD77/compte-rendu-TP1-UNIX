@@ -42,7 +42,7 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
 
 3. [3. Aller plus loin](#3-aller-plus-loin)
    - [A) Preseed](#a-preseed)
-   - [B) J’ai oublié mon mot de passe root, comment faire pour le changer ?](#b-jai-oublie-mon-mot-de-passe-root-comment-faire-pour-le-changer)
+   - [B) Root](#b-root)
    - [C) Je souhaite redimensionner ma partition racine, comment puis-je faire sans réinstaller ?](#c-je-souhaite-redimensionner-ma-partition-racine-comment-puis-je-faire-sans-reinstaller)
 
 4. [Conclusion finale](#conclusion-finale)
@@ -527,7 +527,7 @@ C’est hautement personnalisable, simple à intégrer. D’autres lui préfère
 
 Preseed repose sur un simple fichier texte, appelé par l’installeur debian. On y inscrit les réponses voulues aux questions posées par l’installeur. Les fichiers preseed peuvent être servis en TFTP ou HTTP. Dans un souci d’optimisation et de simplicité, on verra la méthode TFTP.
 
-### B) J’ai oublié mon mot de passe root, comment faire pour le changer ?
+### B) Root
 
 
 
