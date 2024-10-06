@@ -364,7 +364,7 @@ Pour cela j'ai utilisé **ssh root@10.20.0.179** avec comme mot de passe "**root
     **Lien avec le TP** : Nécessaire après des modifications apportées à la configuration de SSH pour que celles-ci prennent effet.
 
 
-### B) Voici le reste des commandes utilisé sur le terminal de Linux :
+### B) Voici le reste des commandes utilisées sur le terminal de Linux
 
 #### **1. dpkg -l | wc -l :**
 ```bash
