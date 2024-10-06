@@ -36,7 +36,7 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
      - [D) Swap (quatrième partition)](#d-swap-quatrième-partition)
    - [VI) GRUB](#vi-grub)
 
-2. [Partie 2 : Post-Installation](#partie-2-post-installation)
+2. [Post-Installation](#post-installation)
    - [A) Voici les commandes sur la VM](#a-voici-les-commandes-sur-la-vm)
    - [B) Voici le reste des commandes utilisées sur le terminal de Linux](#b-voici-le-reste-des-commandes-utilisées-sur-le-terminal-de-linux)
 
@@ -292,7 +292,7 @@ J"ai utilisé **'/'** pour que la partition soit utilisée comme la racine du sy
 * GRUB installera ici le programme de démarrage pour gérer le **boot du système**
 
 
-#  **Partie 2 : "Post-Installation"**
+#  **Post-Installation**
 
 
 * Je me suis donc connecté en root à ma VM avec l'iso DEBIAN 12 sur Oracle VirtualBox 
