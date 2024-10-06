@@ -32,8 +32,8 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
    - [V) La création des partitions](#v-la-création-des-partitions)
      - [A) La racine](#a-la-racine)
      - [B) Espace tempo](#b-espace-tempo)
-     - [C) Troisième partition : les logs](#c-troisième-partition-les-logs)
-     - [D) Swap (quatrième partition)](#d-swap-quatrième-partition)
+     - [C) Les logs](#c-les-logs)
+     - [D) Swap](#d-swap)
    - [VI) GRUB](#vi-grub)
 
 2. [Post-Installation](#post-installation)
@@ -213,7 +213,7 @@ J"ai utilisé **'/'** pour que la partition soit utilisée comme la racine du sy
 * Sur l'image ci-dessus voici **le rendu final de cette deuxième partition** .
 
 
-### C) Troisième partition : les logs
+### C) Les logs
 
 
 
@@ -237,7 +237,7 @@ J"ai utilisé **'/'** pour que la partition soit utilisée comme la racine du sy
 * Voici ci-dessus le contenu final de cette troisième partition 
 
 
-### D) swap (Quatrième partition)
+### D) Swap 
 
 
 
