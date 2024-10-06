@@ -137,7 +137,7 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
 
 
 
-## V) La création des partitions (la racine, espace tempo, les logs, ma swap) 
+## V) La création des partitions  
 
 
 ### A) La racine
