@@ -40,7 +40,7 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
    - [A) Voici les commandes sur la VM](#a-voici-les-commandes-sur-la-vm)
    - [B) Voici le reste des commandes utilisées sur le terminal de Linux](#b-voici-le-reste-des-commandes-utilisées-sur-le-terminal-de-linux)
 
-3. [3. Aller plus loin](#3-aller-plus-loin)
+3. [Aller plus loin](#aller-plus-loin)
    - [A) Preseed](#a-preseed)
    - [B) Root](#b-root)
    - [C) Racine](#c-racine)
