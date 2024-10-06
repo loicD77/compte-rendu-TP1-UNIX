@@ -54,6 +54,7 @@ DARRAS Loïc L3 PRO PROJET WEB ET MOBILE
 # **Partie 1 : "Installation Machine virtuelle"**
 
 
+
 ## I) Choisir la langue
 
 * Dans ce cas de figure, j'ai sélectionné **French - Français**
